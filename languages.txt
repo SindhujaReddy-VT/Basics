@@ -1,0 +1,9 @@
+1.What is your favorite programming language? Why?
+Answer: Python is my favorite language. It is one of the easiest language which has simplified syntax and any beginner can start with it easily without much difficulty. Since it's a popular language growing these days, lots of communities are active with the solutions to the the asked questions on majority of the forums. Apart from its easiness, it has great libraries which is being used in Data Science field these days giving more power to the real time problems. Majority of the hottest technologies are revolving around this programming language because of its great libraries and frameworks. It also offers the object-oriented programming, open-source, faster than other programming languages.
+
+
+
+2.Is your favorite language the one you are also most experienced with? If not, which language are you most experienced with?
+Answer: Yes, I have been working on Python for more than a year in my project as a part of my work experience. Apart from this I have also worked on C++, C, Java and TypeScript but Python being my most extensively used language.
+
+
