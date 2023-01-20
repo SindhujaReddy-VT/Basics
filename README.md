@@ -3,5 +3,5 @@ Sindhuja Banka
 Hello GitHub!
 
 Completed standup-meeting with two other students
-1. Yuvasri yuva@vt.edu
+1. Yuva Sri yuva@vt.edu
 2. Devashree Bhagwat devashreeb@vt.edu
